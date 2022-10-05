@@ -1,6 +1,7 @@
 ![alt text](https://media1.giphy.com/media/2i7jspnRBYgg6v4Oki/200w.webp?cid=ecf05e471ob0yyljjnsz8co6sby0bd366f5vlspo4wnv8e1r&rid=200w.webp&ct=g)
 ![alt text](https://media4.giphy.com/media/UK5wOtrmXzFHYJjE9A/200w.webp?cid=ecf05e471ob0yyljjnsz8co6sby0bd366f5vlspo4wnv8e1r&rid=200w.webp&ct=g)
 ![alt text](https://media0.giphy.com/media/2Wz430ih2mZjpYAApu/200w.webp?cid=ecf05e471ob0yyljjnsz8co6sby0bd366f5vlspo4wnv8e1r&rid=200w.webp&ct=g)
+![alt text](https://media0.giphy.com/media/teI6UZ7V8vHeW9tco6/200w.webp?cid=ecf05e479u1uyzihidaty5t05e3jfa93ic2zzzsn0mxpgfxc&rid=200w.webp&ct=g)
 
 
 ### :woman_technologist: About Me :

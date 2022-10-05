@@ -3,6 +3,8 @@
 ![alt text](https://media0.giphy.com/media/2Wz430ih2mZjpYAApu/200w.webp?cid=ecf05e471ob0yyljjnsz8co6sby0bd366f5vlspo4wnv8e1r&rid=200w.webp&ct=g)
 
 
+### :woman_technologist: About Me :
+
 - 👋 Hi, I’m @Aramsiv
 - 👀 I’m interested in IT Security, Cybersecurity, Networking and so on.
 - 🌱 I’m currently learning CyberSec. Maybe Python in the next future.
@@ -13,7 +15,7 @@ DISCORD: Aramsiv#1952<br>
 LINKEDIN:<br>
 
 
-Badges :
+### Badges :
 
 📋 Markup Languages :<br><br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)

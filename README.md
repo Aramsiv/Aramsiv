@@ -10,7 +10,8 @@
 - 👀 I’m interested in IT Security, Cybersecurity, Networking and so on.
 - 🌱 I’m currently learning CyberSec. Maybe Python in the next future.
 - 📫 How to reach me:<br>
-TELEGRAM:  https://t.me/Arams1v<br> 
+LINKEDIN: https://www.linkedin.com/in/lorena-v-a76657252/
+TELEGRAM: https://t.me/Arams1v<br> 
 MASTODON: @aramsiv @mastodon.uno<br>
 DISCORD: Aramsiv#1952<br>
 ZOOM: invitami via email.<br>

@@ -54,6 +54,7 @@ ZOOM: invitami via email.<br>
 <br><br>
 🧑‍💻 Forums :<br><br>
 ![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)
+![InForge](https://img.shields.io/badge/Inforge-blue?style=for-the-badge&logo=InForge&logoColor=White)
 <br><br>
 📑 Documentation Platforms :<br><br>
 ![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)

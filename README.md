@@ -14,7 +14,7 @@ LINKEDIN: https://www.linkedin.com/in/lorena-v-a76657252/<br>
 TELEGRAM: https://t.me/Arams1v<br> 
 MASTODON: @aramsiv @mastodon.uno<br>
 DISCORD: Aramsiv#1952<br>
-ZOOM: invitami via email.<br>
+ZOOM: invite me by email from LNKDN.<br>
 
 
 ### Badges :

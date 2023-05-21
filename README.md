@@ -11,11 +11,11 @@
 - 🌱 I’m currently learning CyberSec. Maybe Python in the next future.
 - 📫 How to reach me:<br>
 
-LINKEDIN: https://www.linkedin.com/in/lorena-v-a76657252/<br>
+LINKEDIN: not yet <br>
 TELEGRAM: https://t.me/Arams1v<br> 
 MASTODON: @aramsiv @mastodon.uno<br>
 DISCORD: Aramsiv#1952<br>
-reach me on ZOOM
+reach me on ZOOM or Telegram
 
 
 

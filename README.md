@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning CyberSec. Maybe Python in the next future.
 - 📫 How to reach me:<br>
 
-LINKEDIN: not yet <br>
+LINKEDIN: private <br>
 TELEGRAM: https://t.me/Arams1v<br> 
 MASTODON: @aramsiv @mastodon.uno<br>
 DISCORD: Aramsiv#1952<br>

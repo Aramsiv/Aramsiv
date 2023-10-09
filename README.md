@@ -22,7 +22,7 @@ reach me on ZOOM or Telegram
 ### Badges :
 
 💻 Cybersecurity :<br><br>
-![CISCO](https://img.shields.io/badge/Cisco-0078D4?style=for-the-badge&logo=Cisco&logoColor=white) ![IBM](https://img.shields.io/badge/Ibm-FF61F6?style=for-the-badge&logo=Ibm&logoColor=white) ![FORTINET](https://img.shields.io/badge/Fortinet-FF0000?style=for-the-badge&logo=Fortinet&logoColor=white) <br> ![CREDLY](https://img.shields.io/badge/Credly-FF5500?style=for-the-badge&logo=Credly&logoColor=white) https://www.credly.com/users/lorena-vismara/badges<br>
+![CISCO](https://img.shields.io/badge/Cisco-0078D4?style=for-the-badge&logo=Cisco&logoColor=white) ![IBM](https://img.shields.io/badge/Ibm-FF61F6?style=for-the-badge&logo=Ibm&logoColor=white) ![FORTINET](https://img.shields.io/badge/Fortinet-FF0000?style=for-the-badge&logo=Fortinet&logoColor=white) ![CERTIPROF](https://img.shields.io/badge/CertiProf-7D4698?style=for-the-badge&logo=CertiProf&logoColor=white) <br> ![CREDLY](https://img.shields.io/badge/Credly-FF5500?style=for-the-badge&logo=Credly&logoColor=white) https://www.credly.com/users/lorena-vismara/badges<br>
 ![SKILLFRONT](https://img.shields.io/badge/Skillfront-%23D90007?style=for-the-badge&logo=Skillfront&logoColor=white) https://www.skillfront.com/Badges/36512523731608 <br>
 ![FASTWEBDIGITALACADEMY](https://img.shields.io/badge/FastwebDigitalAcademy-ff9900?style=for-the-badge&logo=FastwebDigitalAcademy&logoColor=white) https://learn.fastwebdigital.academy/badges/badge.php?hash=e49335d3f403963fed48c5f712defaa059be41ad
 <br><br>

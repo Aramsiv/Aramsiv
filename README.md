@@ -22,7 +22,7 @@ reach me on ZOOM or Telegram
 ### Badges :
 
 💻 Cybersecurity :<br><br>
-![CREDLY](https://img.shields.io/badge/credly-%4D4D4D?style=for-the-badge&logo=credly&logoColor=white) 
+![CISCO](https://img.shields.io/badge/Cisco-0078D4?style=for-the-badge&logo=Cisco&logoColor=white) 
 <br><br>
 💻 Terminal :<br><br>
 ![WINDOWS TERMINAL](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)

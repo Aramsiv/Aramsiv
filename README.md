@@ -22,7 +22,8 @@ reach me on ZOOM or Telegram
 ### Badges :
 
 💻 Cybersecurity :<br><br>
-![CISCO](https://img.shields.io/badge/Cisco-0078D4?style=for-the-badge&logo=Cisco&logoColor=white) ![IBM](https://img.shields.io/badge/Ibm-FF61F6?style=for-the-badge&logo=Ibm&logoColor=white) ![FORTINET](https://img.shields.io/badge/Fortinet-FF0000?style=for-the-badge&logo=Fortinet&logoColor=white) ![CREDLY](https://img.shields.io/badge/Credly-FF5500?style=for-the-badge&logo=Credly&logoColor=white)
+![CISCO](https://img.shields.io/badge/Cisco-0078D4?style=for-the-badge&logo=Cisco&logoColor=white) ![IBM](https://img.shields.io/badge/Ibm-FF61F6?style=for-the-badge&logo=Ibm&logoColor=white) ![FORTINET](https://img.shields.io/badge/Fortinet-FF0000?style=for-the-badge&logo=Fortinet&logoColor=white) ![CREDLY](https://img.shields.io/badge/Credly-FF5500?style=for-the-badge&logo=Credly&logoColor=white) <br>
+![SKILLFRONT](https://img.shields.io/badge/Skillfront-23D90007?style=for-the-badge&logo=Skillfront&logoColor=white) 
 <br><br>
 💻 Terminal :<br><br>
 ![WINDOWS TERMINAL](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)

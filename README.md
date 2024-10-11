@@ -14,7 +14,7 @@
 LINKEDIN: private <br>
 TELEGRAM: https://t.me/Arams1v<br> 
 MASTODON: @aramsiv @mastodon.uno<br>
-DISCORD: Aramsiv<br>
+DISCORD: Aramsiv#1952<br>
 reach me on ZOOM or Telegram
 
 
